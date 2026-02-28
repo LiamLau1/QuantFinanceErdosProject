@@ -1,1 +1,1 @@
-# QuantFinanceErdosProject
+# Erdos Quantitative Finance Project
